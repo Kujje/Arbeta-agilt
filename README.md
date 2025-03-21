@@ -1,5 +1,5 @@
 # Individuella reflektioner
-[Grupp repot]([(https://github.com/Grupparbete-Iteration-Nation/Yum-Yum-Gimme-Sum-Grupparbete?tab=readme-ov-file)]
+[Grupp repot](https://github.com/Grupparbete-Iteration-Nation/Yum-Yum-Gimme-Sum-Grupparbete?tab=readme-ov-file)
 Svara på var och en av frågorna nedan individuellt (minst 100 tecken per fråga)
 
 ## Frågor
