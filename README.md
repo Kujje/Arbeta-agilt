@@ -71,16 +71,18 @@ Jag känner att jag kan ta mig an riktiga projekt på egen hand eller i team. Ja
    
 #### Beskriv en konkret lösning du föreslagit under projektet. Varför ansåg du att den var bäst? Jämför med minst en annan möjlig lösning och förklara varför du inte valde den.
 
-(insert answer here...)
+En konkret lösning jag föreslog tidigt i projektet var att vi skulle dela upp vår CSS i flera filer, en per sida. Detta för att undvika merge-konflikter i Git när flera jobbade med stilmallar samtidigt. Det visade sig vara väldigt effektivt, särskilt efter att vi initialt hade stora problem när alla skrev i samma CSS-fil. En alternativ lösning hade varit att fortsätta med en gemensam fil och försöka koordinera vem som ändrade vad, men det hade krävt mycket mer kommunikation och riskerat att stoppa upp arbetet. Därför var min lösning både mer effektiv.
 
 #### Ge minst två exempel på lösningar ni valde bort. Analysera varför ni avstod från dem. Hur påverkade det projektet? Kunde något ha gjorts annorlunda?
 
-(insert answer here...)
+1. Betalning i appen: Vi valde bort detta eftersom det skulle ta mycket tid att implementera säkert och korrekt. När vi fick nya önskemål från kunden, som en karusell på startsidan och att göra användartester, valde vi att lägga fokus där istället. Det påverkade projektet positivt eftersom vi hann färdigställa funktionerna som vi satsade på, men samtidigt blev produkten mindre realistisk för en faktisk lansering. Om vi hade haft en vecka till, eller om vi prioriterat bort något annat, kanske vi hade kunnat hinna.
+
+2. Inloggningssystem: Vi sköt upp det till en eventuell sprint 3 eftersom det inte var kritiskt för användarflödet. Det gjorde att vi kunde fokusera på det som direkt gynnar användaren – som att hitta foodtrucken, lägga beställningar och se ETA. Projektet blev tydligare och mer fokuserat. Om vi planerat mer tid i sprint 1 för förberedande struktur kunde vi eventuellt hunnit med inloggning också. Men detta va första "riktiga" projekt vi haft så det va mycket att komma in i på en och samma gång. 
 
 #### Reflektera kring hur den kod du bidragit med skulle kunna förbättras, ge konkreta exempel.
 
-(insert answer here...)
+Jag är nöjd att jag fick det att funka, men det hade säkert gått att skriva koden på ett mer organiserat sätt. Till exempel hade jag kanske kunnat dela upp funktionerna i flera filer eller mindre delar, så det hade blivit lättare att förstå och jobba vidare med. JavaScript är fortfarande svårt för mig, så jag fokuserade mest på att få det att fungera. 
 
 #### Om ni hade en vecka till på er, vad skulle du ändrat? Fokusera på arbetsprocessen, samarbetet eller verktygen ni använde. Hur skulle det ha påverkat resultatet?
 
-(insert answer here...)
+Jag hade velat strukturera både JavaScript och HTML bättre från början. Det blev lite rörigt när vi lade till funktioner i efterhand, särskilt sådana som skulle användas på flera sidor. Med mer tid hade jag också velat fokusera på att bygga in en betalfunktion först, och sen lägga till ett inloggningssystem. Det hade gjort helheten ännu mer komplett och användarvänlig.
